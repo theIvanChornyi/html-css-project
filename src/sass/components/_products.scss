@@ -89,13 +89,13 @@
 
 .card__img{
     position: relative;
-    height: 22%;
+    height: 140px;
     width: 100%;
     @include desktop {
-            height: 25%;
+            height: 138px;
         }
     @include tablet {
-            height: 120%;
+            height: 261px;
         }
 }
 
